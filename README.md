@@ -1,2 +1,2 @@
-# douyin smali
+# douyin smali research
 关于删除发行版apk中部分smali代码是否可行的研究。仅用于学习smali编程及查找盗取用户资料的恶意代码。
